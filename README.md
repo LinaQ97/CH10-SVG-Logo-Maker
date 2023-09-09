@@ -6,15 +6,10 @@ This application allows users to enter selections and inputs prompted in an orde
 
 
 ## Usage
+Screencastify Screen Video Recording:
+https://drive.google.com/file/d/1hwmrpnCTByWxTO4IEMmEjwnREK4Vlslq/view
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
+![Screenshot of live server](../../Screenshot%202023-09-09%20at%203.18.37%20PM.png)
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
